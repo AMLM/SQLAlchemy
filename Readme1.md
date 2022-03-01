@@ -18,7 +18,8 @@ Using Python and SQLAlchemy to do basic climate analysis and data exploration of
 * Sort the DataFrame values by `date`.
 
 * Plot the results using the DataFrame `plot` method.
-![precipitation](Images/precipitation_bargraph.png)
+
+    ![precipitation-bargraph](Images/precipitation_bargraph.png)
 
 ### Station Analysis
 
